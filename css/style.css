@@ -47,13 +47,29 @@ padding-left: 5px;
 
 
 }
-section
-{
+.main phones{
   
-   background-color:white;
-   height: 250px;
-   width: auto;
-   margin: auto;
-   padding:auto;
+  width: 100%;
+  float: right;
+  align-items: center;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
 
+.android{
+  width: 50%;
+  margin-left: 300px;
+  margin-right: auto;
+}
+
+.android img{
+  width: 300px;
+  
+}
+.ios{
+  width: 50%;
+  margin-right: 300px;
+}
+.ios img{
+  width: 250px; 
 }
