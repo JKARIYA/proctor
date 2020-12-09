@@ -72,6 +72,40 @@ h1{
   text-align: center
 }
 
+.panel-footer {
+  margin-top: 30px;
+  padding-top: 35px;
+ 
+
+height: 250px;
+width: 100%;
+  background-image: radial-gradient(circle,gray 0%,white 100%);
+}
+
+#About, #Social{
+  line-height: 2;
+}
+#About > span, #Social > span {
+  font-size: 1.3em;
+}
+#Social p {
+  color: #557c3e;
+  font-size: .8em;
+  line-height: 1.8;
+}
+#testimonials {
+  font-style: italic;
+}
+#testimonials p:nth-child(2) {
+  margin-top: 25px;
+}
+
+#text-center{
+  text-align: center;
+  font-style: italic;
+  padding-top: 5px;
+}
+
 @media(max-width: 468px){
 
   #android img{
