@@ -74,6 +74,54 @@ h1{
   text-align: center
 }
 
+.samsung img{
+  height: 120px;
+  margin-left:50px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+
+}
+
+.oppo img{
+  height: 120px;
+  margin-left:90px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+
+}
+
+.vivo img{
+  height: 100px;
+  margin-left:90px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+
+}
+
+.oneplus img{
+  height: 100px;
+  margin-left:90px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+
+}
+
+.mi img{
+  height: 80px;
+  margin-left:90px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+
+}
+
+.motorola img{
+  height: 100px;
+  margin-left:90px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+
+}
+
 .panel-footer {
   margin-top: 120px;
   padding-top: 35px;
@@ -143,6 +191,54 @@ h1{
 
     margin-left: 50px;
     margin-right: 50px;
+
+}
+ 
+.samsung img{
+  height: 120px;
+  margin-left:35px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+
+}
+
+.oppo img{
+  height: 120px;
+  margin-left:35px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+
+}
+
+.vivo img{
+  height: 100px;
+  margin-left:40px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+
+}
+
+.oneplus img{
+  height: 100px;
+  margin-left:75px;
+  margin-bottom: 20px;
+  margin-top: 10px;
+
+}
+
+.mi img{
+  height: 80px;
+  margin-left:45px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+
+}
+
+.motorola img{
+  height: 100px;
+  margin-left:70px;
+  margin-bottom: 20px;
+  margin-top: 20px;
 
 }
  
