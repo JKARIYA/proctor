@@ -159,6 +159,29 @@ width: 100%;
   padding-left: 150px;
 }
 
+.Shead
+{
+text-align: center;
+}
+
+.centering
+{
+  text-align: center;
+}
+
+.parrangement
+{
+margin-top:50px;
+margin-left:0px;
+}
+
+.arrangement 
+{
+ margin-top: 50px;
+ margin-bottom: 15px;
+ margin-left: 0px;
+}
+
 @media(max-width: 468px){
 
   #android img{
