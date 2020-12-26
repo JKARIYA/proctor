@@ -196,8 +196,7 @@ margin-left:0px;
 }
 
 @media(max-width: 468px){
-
-  #android img{
+#android img{
 
     width:160px;
 }
@@ -206,12 +205,13 @@ margin-left:0px;
     width: 135px;
 }
   #android{
- 
-    padding-left: 50px;
+  margin-left: auto;
 }
 #ios{
- padding-left: 20px;
+ margin-right: auto; 
+  
 }
+
 h1{
   font-weight: 600;
   font-size: small;
