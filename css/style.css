@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 #header-nav {
  background: #047BD5;  
 height: 60px;
@@ -46,29 +50,34 @@ padding-left: 5px;
   text-align: center;
 }
 
-.main phones{
-  
+.mainphones{
+  align-content: center;
   width: 100%;
-  box-sizing: border-box;
+  
 }
 
 #android{
- 
-  padding-left: 320px;
-  margin-bottom: 40px;
+  margin-left: 250px;
+  
 }
 
 #android img{
   width:250px;
+
+  
 }
 #ios{
-  padding-left: 80px;
-  box-sizing: border-box;
-  margin-bottom: 40px;
+  margin-right: 250px;
+  float: right;
+  
+  
 }
 #ios img{
   width: 210px;
+   
+  
 }
+
 h1{
   font-weight: bold;
   text-align: center
